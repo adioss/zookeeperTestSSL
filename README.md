@@ -10,4 +10,5 @@ Test Zookeeper SSL features
   * loop until death
 
 Keystores generated for CN=localhost (cert req signed by a CA created using keytool (ca.jks))
+
 Trustores contain CA certificate
