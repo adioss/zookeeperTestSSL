@@ -9,6 +9,6 @@ Test Zookeeper SSL features
   * retrieve after few seconds
   * loop until death
 
-Keystores generated for CN=localhost (cert req signed by a CA created using keytool (ca.jks))
+Keystores contain keypair generated for CN=localhost (cert req signed by a CA created using keytool (ca.jks))
 
 Trustores contain CA certificate
