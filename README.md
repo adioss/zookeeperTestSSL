@@ -2,8 +2,8 @@
 Test Zookeeper SSL features on Zookeeper 3.5.2-alpha
 
 ## Content
-* com.adioss.zookeeper.test.ssl.ZookeeperServer : start the zk server using NettyServerCnxnFactory
-* com.adioss.zookeeper.test.ssl.ZookeeperSenderRetriever: start zk client using ClientCnxnSocketNetty
+* com.adioss.zookeeper.test.ssl.ZookeeperServer : start a ZK server using NettyServerCnxnFactory
+* com.adioss.zookeeper.test.ssl.ZookeeperSenderRetriever: start ZK client using ClientCnxnSocketNetty
   * ensure that a znode is created
   * send data
   * retrieve after few seconds
