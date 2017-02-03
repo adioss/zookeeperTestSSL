@@ -4,7 +4,7 @@ Test Zookeeper SSL features
 ## Content
 * com.adioss.zookeeper.test.ssl.ZookeeperServer : start the zk server using NettyServerCnxnFactory
 * com.adioss.zookeeper.test.ssl.ZookeeperSenderRetriever: start zk client using ClientCnxnSocketNetty
-  * ensure a znode create
+  * ensure that a znode is created
   * send data
   * retrieve after few seconds
   * loop until death
