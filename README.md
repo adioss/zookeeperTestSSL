@@ -1,5 +1,5 @@
 # zookeeper test SSL
-Test Zookeeper SSL features
+Test Zookeeper SSL features on Zookeeper 3.5.2-alpha
 
 ## Content
 * com.adioss.zookeeper.test.ssl.ZookeeperServer : start the zk server using NettyServerCnxnFactory
